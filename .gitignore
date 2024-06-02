@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+opencv/
+!mergeAndDownSample.dll
+!mergeAndDownSample.lib
