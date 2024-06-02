@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\777777\Desktop\test2-master\x64\Debug\mergeAndDownSample.dll</FullPath>
+      <FullPath>C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\mergeAndDownSample.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\777777\Desktop\test2-master\x64\Debug\gTestFor_mergeAndDownSample.exe</FullPath>
+      <FullPath>C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\gTestFor_mergeAndDownSample.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

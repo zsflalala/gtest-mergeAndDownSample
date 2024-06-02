@@ -2,5 +2,6 @@
   dllmain.cpp
   mergeAndDownSample.cpp
   正在生成代码...
-    正在创建库 C:\Users\777777\Desktop\test2-master\x64\Debug\mergeAndDownSample.lib 和对象 C:\Users\777777\Desktop\test2-master\x64\Debug\mergeAndDownSample.exp
-  mergeAndDownSample.vcxproj -> C:\Users\777777\Desktop\test2-master\x64\Debug\mergeAndDownSample.dll
+  LINK : 没有找到 C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\mergeAndDownSample.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\mergeAndDownSample.lib 和对象 C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\mergeAndDownSample.exp
+  mergeAndDownSample.vcxproj -> C:\Users\777777\Desktop\SCUMapPlatform\3张至铖\gtest-mergeAndDownSample-master\x64\Debug\mergeAndDownSample.dll

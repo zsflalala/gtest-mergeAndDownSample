@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\777777\\Desktop\\test2-master\\",
+  "WorkspaceRootPath": "C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AEB26C2-7759-4B07-B5FD-214693DE60E9}|gTestFor_mergeAndDownSample\\gTestFor_mergeAndDownSample.vcxproj|C:\\Users\\777777\\Desktop\\test2-master\\gTestFor_mergeAndDownSample\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7AEB26C2-7759-4B07-B5FD-214693DE60E9}|gTestFor_mergeAndDownSample\\gTestFor_mergeAndDownSample.vcxproj|C:\\USERS\\777777\\DESKTOP\\SCUMAPPLATFORM\\3\u5F20\u81F3\u94D6\\GTEST-MERGEANDDOWNSAMPLE-MASTER\\PACKAGES\\MICROSOFT.GOOGLETEST.V140.WINDESKTOP.MSVCSTL.STATIC.RT-DYN.1.8.1.7\\BUILD\\NATIVE\\INCLUDE\\GTEST\\GTEST.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AEB26C2-7759-4B07-B5FD-214693DE60E9}|gTestFor_mergeAndDownSample\\gTestFor_mergeAndDownSample.vcxproj|solutionrelative:PACKAGES\\MICROSOFT.GOOGLETEST.V140.WINDESKTOP.MSVCSTL.STATIC.RT-DYN.1.8.1.7\\BUILD\\NATIVE\\INCLUDE\\GTEST\\GTEST.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB26C2-7759-4B07-B5FD-214693DE60E9}|gTestFor_mergeAndDownSample\\gTestFor_mergeAndDownSample.vcxproj|C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\gTestFor_mergeAndDownSample\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AEB26C2-7759-4B07-B5FD-214693DE60E9}|gTestFor_mergeAndDownSample\\gTestFor_mergeAndDownSample.vcxproj|solutionrelative:gTestFor_mergeAndDownSample\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,25 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "gtest.h",
+              "DocumentMoniker": "C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\packages\\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\\build\\native\\include\\gtest\\gtest.h",
+              "RelativeDocumentMoniker": "packages\\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\\build\\native\\include\\gtest\\gtest.h",
+              "ToolTip": "C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\packages\\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\\build\\native\\include\\gtest\\gtest.h",
+              "RelativeToolTip": "packages\\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\\build\\native\\include\\gtest\\gtest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T08:57:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\777777\\Desktop\\test2-master\\gTestFor_mergeAndDownSample\\test.cpp",
+              "DocumentMoniker": "C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\gTestFor_mergeAndDownSample\\test.cpp",
               "RelativeDocumentMoniker": "gTestFor_mergeAndDownSample\\test.cpp",
-              "ToolTip": "C:\\Users\\777777\\Desktop\\test2-master\\gTestFor_mergeAndDownSample\\test.cpp",
+              "ToolTip": "C:\\Users\\777777\\Desktop\\SCUMapPlatform\\3\u5F20\u81F3\u94D6\\gtest-mergeAndDownSample-master\\gTestFor_mergeAndDownSample\\test.cpp",
               "RelativeToolTip": "gTestFor_mergeAndDownSample\\test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-31T07:00:39.766Z",
               "EditorCaption": ""
